@@ -1,0 +1,15 @@
+D:\workspace\Praticando\bin\Debug\net6.0\Praticando.exe
+D:\workspace\Praticando\bin\Debug\net6.0\Praticando.deps.json
+D:\workspace\Praticando\bin\Debug\net6.0\Praticando.runtimeconfig.json
+D:\workspace\Praticando\bin\Debug\net6.0\Praticando.dll
+D:\workspace\Praticando\bin\Debug\net6.0\ref\Praticando.dll
+D:\workspace\Praticando\bin\Debug\net6.0\Praticando.pdb
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.csproj.AssemblyReference.cache
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.AssemblyInfoInputs.cache
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.AssemblyInfo.cs
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.csproj.CoreCompileInputs.cache
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.dll
+D:\workspace\Praticando\obj\Debug\net6.0\ref\Praticando.dll
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.pdb
+D:\workspace\Praticando\obj\Debug\net6.0\Praticando.genruntimeconfig.cache
